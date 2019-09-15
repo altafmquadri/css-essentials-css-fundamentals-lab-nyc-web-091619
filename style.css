@@ -17,6 +17,10 @@ a {
   background-color: silver;
 }
 
+#details {
+  display: block;
+}
+
 figcaption {
   text-align: center;
   font-size: 10px;
