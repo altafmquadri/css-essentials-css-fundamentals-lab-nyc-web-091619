@@ -12,4 +12,6 @@ img, header {
   margin: auto;
 }
 
-
+a {
+  padding: 10px
+}
