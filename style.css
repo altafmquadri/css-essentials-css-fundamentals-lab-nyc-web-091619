@@ -16,3 +16,7 @@ a {
   padding: 10px;
   background-color: silver;
 }
+
+figcaption {
+  text-align: center;
+}
