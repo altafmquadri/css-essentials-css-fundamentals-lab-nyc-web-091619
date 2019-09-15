@@ -21,6 +21,10 @@ a {
   display: block;
 }
 
+#details div {
+  float: left;
+}
+
 figcaption {
   text-align: center;
   font-size: 10px;
