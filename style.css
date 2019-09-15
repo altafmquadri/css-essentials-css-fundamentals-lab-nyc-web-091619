@@ -23,6 +23,8 @@ a {
 
 #details div {
   float: left;
+  background-color: blue;
+  
 }
 
 figcaption {
